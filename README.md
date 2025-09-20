@@ -1,3 +1,5 @@
 knowlage git learning project
 
-this repo is only ment to be used by students to learn git and try  diffrent git commands.:wq
+this repo is only ment to be used by students to learn git and try  diffrent git commands.
+
+this is the second change that i am doing the readme file.
